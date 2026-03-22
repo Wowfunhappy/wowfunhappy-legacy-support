@@ -1,3 +1,7 @@
+Update: Now integrated into my fork of https://github.com/wowfunhappy/macports-legacy-support.
+
+---
+
 Polyfills for missing functions on Mavericks. Intended to be used alongside [MacPorts Legacy Support](https://github.com/macports/macports-legacy-support); I only polyfill functions which MacPorts Legacy Support does not already provide.
 
 To use this with a binary:
